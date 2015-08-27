@@ -1,0 +1,16 @@
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.csprojResolveAssemblyReference.cache
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.Form1.resources
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.Properties.Resources.resources
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.csproj.GenerateResource.Cache
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\bin\Debug\ConnectCsharpToMysql.exe
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\bin\Debug\ConnectCsharpToMysql.pdb
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.exe
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.pdb
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\22.08.2015\saat 21-01\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.exe
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\22.08.2015\saat 21-01\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.pdb
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\22.08.2015\saat 21-01\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\bin\Debug\ConnectCsharpToMysql.exe
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\22.08.2015\saat 21-01\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\bin\Debug\ConnectCsharpToMysql.pdb
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\22.08.2015\saat 21-01\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.csprojResolveAssemblyReference.cache
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\22.08.2015\saat 21-01\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.Form1.resources
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\22.08.2015\saat 21-01\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.Properties.Resources.resources
+G:\YEDEK\EğitimDökümanları\C#\Fabrika Otomasyonu Furkan\22.08.2015\saat 21-01\ConnectCsharpToMysql_Source\ConnectCsharpToMysql\obj\Debug\ConnectCsharpToMysql.csproj.GenerateResource.Cache
